@@ -6,3 +6,6 @@ esquerda, acima, à direita e abaixo de X, quando houver, conforme
 exemplo.
 */
 
+string[] line = Console.ReadLine().Split(' ');
+int n = int.Parse(line[0]);
+int m = int.Parse(line[1]);
